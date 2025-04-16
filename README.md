@@ -1,14 +1,19 @@
 # 👋 Hey, I'm Misbah Ali
 
-![Gravatar](https://www.gravatar.com/avatar/0f367f1be7c660ebdf7dfc56c9bb5f46?s=200)
+<p align="center">
+  <a href="https://gravatar.com/muhammadmisbahali" target="_blank">
+    <img src="https://www.gravatar.com/avatar/0f367f1be7c660ebdf7dfc56c9bb5f46?s=200" alt="Gravatar" width="120" style="border-radius: 50%;" />
+  </a>
+</p>
 
-> Full-stack engineering leader · Digital transformation @ Etihad · Musician & Global Explorer 🌍🎶✈️
+> 🎯 Software Engineering Manager · Former Head of Engineering @ Udrive · Currently driving digital transformation @ Etihad Airways ✈️  
+> 🎵 Musician. 🚀 Builder. 🌍 Traveler.  
 
 ---
 
 ## 🧱 GitHub Contribution Wall Summary
 
-This summary reflects my real contributions to private/enterprise codebases using a commit replay strategy.
+This repo reflects my **real-world engineering contributions** across private and enterprise projects using a commit replay strategy — no proprietary code included.
 
 | Metric                  | Count     |
 |-------------------------|-----------|
@@ -23,26 +28,37 @@ This summary reflects my real contributions to private/enterprise codebases usin
 | Project / Company         | Commits | LOC     | Files | Notes                        |
 |---------------------------|---------|---------|-------|------------------------------|
 | Etihad Airways (SSCI)     | 144     | 41,268  | 428   | Core engineer on enterprise monorepo |
+| *(More projects coming soon)* | -     | -       | -     |                              |
 
 🔗 [See contribution wall repo »](https://github.com/mmisbahali/github-contrib-wall)
 
 ---
 
-## 🧠 Tools Behind the Scenes
+## ⚙️ Tools Behind the Scenes
 
-- `git-fame`, `git log`, `awk`, and `bash`
-- Commit replay with fake timestamps (GitHub-friendly)
-- No proprietary code leaked — just timestamps and commit messages
+- [`git-fame`](https://github.com/casperdcl/git-fame) for code stats
+- Shell scripting: `awk`, `bash`, `git log`, `git filter-branch`
+- Empty commit replays with real timestamps
+- GitHub contribution graph hack 🤓
 
 ---
 
 ## 🎸 About Me
 
-- 🎹 Musician & songwriter
-- 🧭 Traveled: Europe, Australia, Asia, Middle East
-- 💼 Previously: Head of Engineering @ Udrive
-- 🛫 Currently: Software Engineering Manager @ Etihad Airways
+- 🎹 Musician, Guitarist, Singer/Songwriter & Live Performer
+- ✈️ Traveled: Europe, Australia, Middle East, Asia
+- 💼 Previously: Head of Engineering @ Udrive (car-sharing platform)
+- 🧠 Currently: Software Engineering Manager @ Etihad Airways
+- 🛠️ Focused on full-stack architecture, DX, scalability & AI tooling
 
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/misbahali) | 🎶 [Music Projects Coming Soon]
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/misbahali)
+- 💬 [Twitter / X](https://twitter.com/mmisbahali)
+- 🌐 [Gravatar](https://gravatar.com/muhammadmisbahali)
+- 🎶 [Music & Creative Projects coming soon...]
+
+---
+*Last updated: 2025-04-16*
