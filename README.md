@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gravatar.com/muhammadmisbahali" target="_blank">
-    <img src="https://www.gravatar.com/avatar/0f367f1be7c660ebdf7dfc56c9bb5f46?s=200" alt="Gravatar" width="120" style="border-radius: 50%;" />
+    <img src="https://misbahali.bio/muhammadmisbahali.qr?version=3" alt="Misbah Ali" width="160" style="border-radius: 50%;" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@ This repo reflects my **real-world engineering contributions** across private an
 | Metric                  | Count     |
 |-------------------------|-----------|
 | 📦 Total Commits        | 144       |
-| 📜 Total Lines of Code  | 96,642    |
-| 📁 Files Touched        | 1,552     |
+| 📜 Total Lines of Code  | 41,268    |
+| 📁 Files Touched        | 428       |
 
 ---
 
@@ -27,7 +27,7 @@ This repo reflects my **real-world engineering contributions** across private an
 
 | Project / Company         | Commits | LOC     | Files | Notes                        |
 |---------------------------|---------|---------|-------|------------------------------|
-| Etihad Airways (SSCI)     | 144     | 41,268  | 428   | Core engineer on enterprise monorepo |
+| Etihad Airways (SSCI)     | 144     | 41,268  | 428   | Lead engineer and EM on enterprise monorepo |
 | *(More projects coming soon)* | -     | -       | -     |                              |
 
 🔗 [See contribution wall repo »](https://github.com/mmisbahali/github-contrib-wall)
