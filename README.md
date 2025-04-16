@@ -39,7 +39,6 @@ This repo reflects my **real-world engineering contributions** across private an
 - [`git-fame`](https://github.com/casperdcl/git-fame) for code stats
 - Shell scripting: `awk`, `bash`, `git log`, `git filter-branch`
 - Empty commit replays with real timestamps
-- GitHub contribution graph hack 🤓
 
 ---
 
@@ -56,9 +55,7 @@ This repo reflects my **real-world engineering contributions** across private an
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/misbahali)
-- 💬 [Twitter / X](https://twitter.com/mmisbahali)
 - 🌐 [Gravatar](https://gravatar.com/muhammadmisbahali)
-- 🎶 [Music & Creative Projects coming soon...]
 
 ---
 *Last updated: 2025-04-16*
