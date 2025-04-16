@@ -1,14 +1,15 @@
 ---
 layout: home
-title: "Welcome"
 ---
 
-# 👋 Welcome
+# 👋 Welcome to My World
 
-I'm Misbah Ali — Software Engineering Manager by day, 🎸 musician by night, ✈️ globe-trotter on weekends.
+Hi, I’m **Misbah Ali** — a software engineering leader, passionate musician, and curious world traveler.
 
-- 💻 I build scalable systems & lead engineering teams.
-- 🎵 I perform live and produce music.
-- 🌍 I’ve traveled across Europe, Australia, Asia, and the Middle East.
+- 💻 Head of Engineering @ Udrive / Engineering Manager @ Etihad
+- 🎶 Singer-songwriter & live performer
+- 🌍 Explorer of 4 continents and counting
 
-This is my digital hub — a mix of commits, chords, and culture.
+> _"I chase rhythm — in code, music, and culture."_
+
+Check out more below 👇

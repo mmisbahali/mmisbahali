@@ -1,7 +1,23 @@
 title: "Misbah Ali"
-description: "Tech Leader • Musician • Global Nomad"
+description: "Engineering Leader • Musician • Explorer"
+baseurl: ""  # no trailing slash
+url: "https://mmisbahali.github.io"
 theme: minima
+
 author: Misbah Ali
+
+# Nav links
+minima:
+  skin: auto
+  social_links:
+    github: mmisbahali
+    linkedin: muhammadmisbahali
+    email: reach@misbahali.com
+  header_pages:
+    - about.md
+    - projects.md
+    - music.md
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
