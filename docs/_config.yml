@@ -1,0 +1,7 @@
+title: "Misbah Ali"
+description: "Tech Leader • Musician • Global Nomad"
+theme: minima
+author: Misbah Ali
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

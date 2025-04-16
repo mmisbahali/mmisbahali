@@ -1,9 +1,14 @@
-# 👋 Welcome to Misbah's Digital Space
+---
+layout: home
+title: "Welcome"
+---
 
-This site mirrors my engineering and creative journey.
+# 👋 Welcome
 
-- ✅ GitHub contributions
-- 🎵 Music and live performances
-- 🧳 Global travel stories
+I'm Misbah Ali — Software Engineering Manager by day, 🎸 musician by night, ✈️ globe-trotter on weekends.
 
-[See my GitHub profile](https://github.com/mmisbahali)
+- 💻 I build scalable systems & lead engineering teams.
+- 🎵 I perform live and produce music.
+- 🌍 I’ve traveled across Europe, Australia, Asia, and the Middle East.
+
+This is my digital hub — a mix of commits, chords, and culture.
